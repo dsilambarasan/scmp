@@ -1,0 +1,11 @@
+name: scmp service
+description: Service API
+type: module
+core: 8.x
+package: scmp
+dependencies:
+  - field
+  - image
+  - taxonomy
+  - user
+  - views
